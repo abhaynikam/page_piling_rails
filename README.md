@@ -1,6 +1,7 @@
 # PagePilingRails
 
 - [Live demo](http://alvarotrigo.com/pagePiling/)
+- [Page Piling JS](https://github.com/alvarotrigo/pagePiling.js/)
 
 ## Installation
 
@@ -20,13 +21,16 @@ And then execute:
 
 If rake task fails to require the js,
 Add this line to your applications's `app/assets/javascripts/application.js`
-    ```ruby
-    //= require jquery.pagepiling.min.js
-    ```
+
+```
+//= require jquery.pagepiling.min.js
+```
+
 and also add this line to your applications's `app/assets/stylesheets/application.css`
-    ```ruby
-    *= require jquery.pagepiling.css
-    ```
+
+```
+*= require jquery.pagepiling.css
+```
 
 Or install it yourself as:
 
