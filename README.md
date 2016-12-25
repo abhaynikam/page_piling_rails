@@ -1,7 +1,10 @@
 # PagePilingRails
 
+
 - [Live demo](http://alvarotrigo.com/pagePiling/)
 - [Page Piling JS](https://github.com/alvarotrigo/pagePiling.js/)
+
+[![Ruby Gem](https://badge.fury.io/rb/page_piling_rails.svg)](https://rubygems.org/gems/page_piling_rails)
 
 ## Installation
 
